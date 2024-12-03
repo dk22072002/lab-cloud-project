@@ -1,0 +1,6 @@
+region       = "us-west-2"
+instance_type = "t2.micro"
+bucket_name  = "spartanmarket-user-images"
+db_username  = "admin"
+db_password  = "securepassword"
+app_name     = "SpartanMarket"
